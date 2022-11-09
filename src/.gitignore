@@ -1,5 +1,10 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
 .DS_STORE
-node_modules
 scripts/flow/*/.flowconfig
 .flowconfig
 *~
